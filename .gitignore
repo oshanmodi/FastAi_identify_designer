@@ -1,0 +1,8 @@
+/bears
+/designer_lehengas
+/fastbook
+/images
+/python-path-specification
+self*
+modified*
+.ipynb_checkpoints
